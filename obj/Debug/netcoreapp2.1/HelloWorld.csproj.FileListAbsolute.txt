@@ -1,0 +1,15 @@
+C:\Users\lenovo\Downloads\dotnet-docs-samples-master\dotnet-docs-samples-master\appengine\flexible\HelloWorld\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\lenovo\Downloads\dotnet-docs-samples-master\dotnet-docs-samples-master\appengine\flexible\HelloWorld\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\lenovo\Downloads\dotnet-docs-samples-master\dotnet-docs-samples-master\appengine\flexible\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.deps.json
+C:\Users\lenovo\Downloads\dotnet-docs-samples-master\dotnet-docs-samples-master\appengine\flexible\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.runtimeconfig.json
+C:\Users\lenovo\Downloads\dotnet-docs-samples-master\dotnet-docs-samples-master\appengine\flexible\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.runtimeconfig.dev.json
+C:\Users\lenovo\Downloads\dotnet-docs-samples-master\dotnet-docs-samples-master\appengine\flexible\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.dll
+C:\Users\lenovo\Downloads\dotnet-docs-samples-master\dotnet-docs-samples-master\appengine\flexible\HelloWorld\bin\Debug\netcoreapp2.1\HelloWorld.pdb
+C:\Users\lenovo\Downloads\dotnet-docs-samples-master\dotnet-docs-samples-master\appengine\flexible\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.csprojAssemblyReference.cache
+C:\Users\lenovo\Downloads\dotnet-docs-samples-master\dotnet-docs-samples-master\appengine\flexible\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.RazorAssemblyInfo.cache
+C:\Users\lenovo\Downloads\dotnet-docs-samples-master\dotnet-docs-samples-master\appengine\flexible\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.RazorAssemblyInfo.cs
+C:\Users\lenovo\Downloads\dotnet-docs-samples-master\dotnet-docs-samples-master\appengine\flexible\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\lenovo\Downloads\dotnet-docs-samples-master\dotnet-docs-samples-master\appengine\flexible\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.AssemblyInfo.cs
+C:\Users\lenovo\Downloads\dotnet-docs-samples-master\dotnet-docs-samples-master\appengine\flexible\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.RazorTargetAssemblyInfo.cache
+C:\Users\lenovo\Downloads\dotnet-docs-samples-master\dotnet-docs-samples-master\appengine\flexible\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.dll
+C:\Users\lenovo\Downloads\dotnet-docs-samples-master\dotnet-docs-samples-master\appengine\flexible\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.pdb
